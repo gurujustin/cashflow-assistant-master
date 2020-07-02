@@ -19,6 +19,7 @@
         </script>
     </head>
     <body>
+        <div><p>TEST</p></div>
         <div id="app">
             <nav class="navbar navbar-default navbar-static-top">
                 <div class="container">
